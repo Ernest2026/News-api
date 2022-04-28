@@ -7,7 +7,8 @@ This is a graphql api that aggregates news from some popular websites, via:
 - Channels
 - Espn
 - Fox
-  and have the ability to filter through sports, football, basketball, politics, and entertainment.
+
+and have the ability to filter through sports, football, basketball, politics, and entertainment.
 
 ## How to run api
 
