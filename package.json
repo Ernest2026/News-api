@@ -1,0 +1,29 @@
+{
+  "name": "news-api",
+  "version": "1.0.0",
+  "description": "An api that aggregates news from 10 most popular news site",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ernest2026/News-api.git"
+  },
+  "keywords": [
+    "News"
+  ],
+  "author": "Chidiebere Ernest",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ernest2026/News-api/issues"
+  },
+  "homepage": "https://github.com/Ernest2026/News-api#readme",
+  "dependencies": {
+    "apollo-server": "^3.6.7",
+    "axios": "^0.27.1",
+    "cheerio": "^1.0.0-rc.10",
+    "graphql": "^16.4.0"
+  }
+}
